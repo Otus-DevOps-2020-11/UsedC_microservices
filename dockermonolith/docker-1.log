@@ -1,0 +1,4 @@
+REPOSITORY                     TAG       IMAGE ID       CREATED          SIZE
+damitrofanov/ubuntu-tmp-file   latest    13ad9b9f12cd   42 seconds ago   63.3MB
+ubuntu                         18.04     3339fde08fc3   13 days ago      63.3MB
+hello-world                    latest    d1165f221234   4 weeks ago      13.3kB
